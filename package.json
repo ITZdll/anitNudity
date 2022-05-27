@@ -1,0 +1,26 @@
+{
+  "name": "antinudity",
+  "version": "0.1.0",
+  "description": "Node.js nudity detector based on Nude.js & nudity",
+  "main": "anitNudity.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITZdll/anitNudity.git"
+  },
+  "keywords": [
+    "anti-nudity",
+    "nudity"
+  ],
+  "author": "iTZdll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITZdll/anitNudity/issues"
+  },
+  "homepage": "https://github.com/ITZdll/anitNudity#readme"
+}
