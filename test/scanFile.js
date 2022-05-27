@@ -1,4 +1,4 @@
-const antiNudity = require('./src/anitNudity');
+const antiNudity = require('../anitNudity');
 
 if (process.argv.length != 3) {
 	console.log('Usage: node test.scanFile.js [image]');

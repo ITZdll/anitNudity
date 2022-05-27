@@ -1,4 +1,4 @@
-const antiNudity = require('./src/anitNudity');
+const antiNudity = require('../anitNudity');
 var fs = require('fs');
 
 if (process.argv.length != 3) {
