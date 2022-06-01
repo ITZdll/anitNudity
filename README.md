@@ -4,7 +4,6 @@
 ## Features
 - Basic & Easy to use
 - Fast & New
-- Soon...
  
 
 # Versions
