@@ -3,10 +3,10 @@
 
 ## Example:
 ```
-const antiNudity = require('../anitNudity');
+const antiNudity = require('anitNudity');
 
 antiNudity.scanFile("/images/test.png", function(err, result) {
-	console.log(result);
+  console.log(result);
 });
 ```
 
